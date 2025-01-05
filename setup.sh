@@ -5,5 +5,5 @@
 # So reanabling update and rebuilding the container image aftr commit and push
 sudo apt-get update
 sudo apt-get install sl
-sudo apt search 'sl'
+cp ~/.bashrc ./bashrc.txt -force
 # echo "export PATH=\$PATH:/usr/games" >> ~/.bashrc
