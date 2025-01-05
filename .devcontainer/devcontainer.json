@@ -6,11 +6,7 @@
 
   "remoteUser": "codespace",
   "overrideCommand": false,
-  "settings": {
-      "terminal.integrated.shell.linux": "/bin/bash",
-      "terminal.integrated.shellArgs.linux": ["-l"]
-  },
-
+  
   // Add the IDs of extensions you want installed when the container is created.
   "customizations": {
       "vscode": {
